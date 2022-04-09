@@ -7,3 +7,5 @@ Feature extraction has been done for both images and captions for input. The fea
 >•	LSTM: To generate descriptions from extracted information of images.
 
 >•	BLEU Score is used as a metric to evaluate the performance of the trained model.
+
+Dataset from: [Flicker8kDataset](https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download&select=Images)
