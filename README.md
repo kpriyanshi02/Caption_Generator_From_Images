@@ -1,4 +1,4 @@
-# Caption_Image_Generator
+# Caption_Generation_From_Images
 This project is built to predict and generate captions for the input image. 
 The dataset contains more than 8k images and 5 captions for each image.
 Feature extraction has been done for both images and captions for input. The features are then concatenated to predict the next word of the caption.
